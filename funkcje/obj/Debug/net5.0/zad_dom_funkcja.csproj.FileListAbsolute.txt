@@ -1,0 +1,16 @@
+C:\Users\Kuba\Desktop\zad_dom_funkcja\obj\Debug\net5.0\zad_dom_funkcja.csproj.AssemblyReference.cache
+C:\Users\Kuba\Desktop\zad_dom_funkcja\obj\Debug\net5.0\zad_dom_funkcja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuba\Desktop\zad_dom_funkcja\obj\Debug\net5.0\zad_dom_funkcja.AssemblyInfoInputs.cache
+C:\Users\Kuba\Desktop\zad_dom_funkcja\obj\Debug\net5.0\zad_dom_funkcja.AssemblyInfo.cs
+C:\Users\Kuba\Desktop\zad_dom_funkcja\obj\Debug\net5.0\zad_dom_funkcja.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\zad_dom_funkcja\bin\Debug\net5.0\zad_dom_funkcja.exe
+C:\Users\Kuba\Desktop\zad_dom_funkcja\bin\Debug\net5.0\zad_dom_funkcja.deps.json
+C:\Users\Kuba\Desktop\zad_dom_funkcja\bin\Debug\net5.0\zad_dom_funkcja.runtimeconfig.json
+C:\Users\Kuba\Desktop\zad_dom_funkcja\bin\Debug\net5.0\zad_dom_funkcja.runtimeconfig.dev.json
+C:\Users\Kuba\Desktop\zad_dom_funkcja\bin\Debug\net5.0\zad_dom_funkcja.dll
+C:\Users\Kuba\Desktop\zad_dom_funkcja\bin\Debug\net5.0\ref\zad_dom_funkcja.dll
+C:\Users\Kuba\Desktop\zad_dom_funkcja\bin\Debug\net5.0\zad_dom_funkcja.pdb
+C:\Users\Kuba\Desktop\zad_dom_funkcja\obj\Debug\net5.0\zad_dom_funkcja.dll
+C:\Users\Kuba\Desktop\zad_dom_funkcja\obj\Debug\net5.0\ref\zad_dom_funkcja.dll
+C:\Users\Kuba\Desktop\zad_dom_funkcja\obj\Debug\net5.0\zad_dom_funkcja.pdb
+C:\Users\Kuba\Desktop\zad_dom_funkcja\obj\Debug\net5.0\zad_dom_funkcja.genruntimeconfig.cache
