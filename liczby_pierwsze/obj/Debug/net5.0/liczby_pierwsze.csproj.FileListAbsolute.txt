@@ -1,0 +1,16 @@
+C:\Users\Kuba\Desktop\zad_dom\liczby_pierwsze\bin\Debug\net5.0\liczby_pierwsze.exe
+C:\Users\Kuba\Desktop\zad_dom\liczby_pierwsze\bin\Debug\net5.0\liczby_pierwsze.deps.json
+C:\Users\Kuba\Desktop\zad_dom\liczby_pierwsze\bin\Debug\net5.0\liczby_pierwsze.runtimeconfig.json
+C:\Users\Kuba\Desktop\zad_dom\liczby_pierwsze\bin\Debug\net5.0\liczby_pierwsze.runtimeconfig.dev.json
+C:\Users\Kuba\Desktop\zad_dom\liczby_pierwsze\bin\Debug\net5.0\liczby_pierwsze.dll
+C:\Users\Kuba\Desktop\zad_dom\liczby_pierwsze\bin\Debug\net5.0\ref\liczby_pierwsze.dll
+C:\Users\Kuba\Desktop\zad_dom\liczby_pierwsze\bin\Debug\net5.0\liczby_pierwsze.pdb
+C:\Users\Kuba\Desktop\zad_dom\liczby_pierwsze\obj\Debug\net5.0\liczby_pierwsze.csproj.AssemblyReference.cache
+C:\Users\Kuba\Desktop\zad_dom\liczby_pierwsze\obj\Debug\net5.0\liczby_pierwsze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuba\Desktop\zad_dom\liczby_pierwsze\obj\Debug\net5.0\liczby_pierwsze.AssemblyInfoInputs.cache
+C:\Users\Kuba\Desktop\zad_dom\liczby_pierwsze\obj\Debug\net5.0\liczby_pierwsze.AssemblyInfo.cs
+C:\Users\Kuba\Desktop\zad_dom\liczby_pierwsze\obj\Debug\net5.0\liczby_pierwsze.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\zad_dom\liczby_pierwsze\obj\Debug\net5.0\liczby_pierwsze.dll
+C:\Users\Kuba\Desktop\zad_dom\liczby_pierwsze\obj\Debug\net5.0\ref\liczby_pierwsze.dll
+C:\Users\Kuba\Desktop\zad_dom\liczby_pierwsze\obj\Debug\net5.0\liczby_pierwsze.pdb
+C:\Users\Kuba\Desktop\zad_dom\liczby_pierwsze\obj\Debug\net5.0\liczby_pierwsze.genruntimeconfig.cache
