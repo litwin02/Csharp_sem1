@@ -8,15 +8,27 @@ namespace liczby_pierwsze
         {
             Console.Write("Podaj zakres wypisywania liczb pierwszych: ");
             int zakres = int.Parse(Console.ReadLine());
-            int pierwiastek = (Int32)Math.Floor(Math.Sqrt(zakres));
-            
+            int start = 2;
 
-            for(int i = 2; i <= zakres; i++)
+            while(start <=zakres)
             {
-                for(int j = 2; j <= pierwiastek; j++)
+                int pierwiastek = (int)Math.Floor(Math.Sqrt(start));
+                int licznik = 2;
+                bool czy_pierwsza = true;
+
+                while(licznik <= pierwiastek)
                 {
-                    
+                    if(start%licznik == 0)
+                    {
+                        czy_pierwsza = false;
+                        break;
+                    }
+                    licznik++;
                 }
+                
+                if(czy_pierwsza) Console.Write(start + " "); 
+            
+                start++;
             }
         }
     }

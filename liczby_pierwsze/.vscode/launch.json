@@ -1,6 +1,23 @@
 {
     "version": "0.2.0",
     "configurations": [
+        
+        {
+            "name": ".NET Core Launch (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/bin/Debug/net5.0/liczby_pierwsze.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+    {
+        "name": ".NET Core Attach",
+        "type": "coreclr",
+        "request": "attach"
+    },
         {
             // Use IntelliSense to find out which attributes exist for C# debugging
             // Use hover for the description of the existing attributes
