@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "liczby_pierwsze_tablice/1.0.0": {
+        "runtime": {
+          "liczby_pierwsze_tablice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "liczby_pierwsze_tablice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

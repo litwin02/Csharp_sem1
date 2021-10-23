@@ -1,0 +1,16 @@
+C:\Users\Kuba\Desktop\zad_dom\liczby_pierwsze_tablice\bin\Debug\net5.0\liczby_pierwsze_tablice.exe
+C:\Users\Kuba\Desktop\zad_dom\liczby_pierwsze_tablice\bin\Debug\net5.0\liczby_pierwsze_tablice.deps.json
+C:\Users\Kuba\Desktop\zad_dom\liczby_pierwsze_tablice\bin\Debug\net5.0\liczby_pierwsze_tablice.runtimeconfig.json
+C:\Users\Kuba\Desktop\zad_dom\liczby_pierwsze_tablice\bin\Debug\net5.0\liczby_pierwsze_tablice.runtimeconfig.dev.json
+C:\Users\Kuba\Desktop\zad_dom\liczby_pierwsze_tablice\bin\Debug\net5.0\liczby_pierwsze_tablice.dll
+C:\Users\Kuba\Desktop\zad_dom\liczby_pierwsze_tablice\bin\Debug\net5.0\ref\liczby_pierwsze_tablice.dll
+C:\Users\Kuba\Desktop\zad_dom\liczby_pierwsze_tablice\bin\Debug\net5.0\liczby_pierwsze_tablice.pdb
+C:\Users\Kuba\Desktop\zad_dom\liczby_pierwsze_tablice\obj\Debug\net5.0\liczby_pierwsze_tablice.csproj.AssemblyReference.cache
+C:\Users\Kuba\Desktop\zad_dom\liczby_pierwsze_tablice\obj\Debug\net5.0\liczby_pierwsze_tablice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuba\Desktop\zad_dom\liczby_pierwsze_tablice\obj\Debug\net5.0\liczby_pierwsze_tablice.AssemblyInfoInputs.cache
+C:\Users\Kuba\Desktop\zad_dom\liczby_pierwsze_tablice\obj\Debug\net5.0\liczby_pierwsze_tablice.AssemblyInfo.cs
+C:\Users\Kuba\Desktop\zad_dom\liczby_pierwsze_tablice\obj\Debug\net5.0\liczby_pierwsze_tablice.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\zad_dom\liczby_pierwsze_tablice\obj\Debug\net5.0\liczby_pierwsze_tablice.dll
+C:\Users\Kuba\Desktop\zad_dom\liczby_pierwsze_tablice\obj\Debug\net5.0\ref\liczby_pierwsze_tablice.dll
+C:\Users\Kuba\Desktop\zad_dom\liczby_pierwsze_tablice\obj\Debug\net5.0\liczby_pierwsze_tablice.pdb
+C:\Users\Kuba\Desktop\zad_dom\liczby_pierwsze_tablice\obj\Debug\net5.0\liczby_pierwsze_tablice.genruntimeconfig.cache
