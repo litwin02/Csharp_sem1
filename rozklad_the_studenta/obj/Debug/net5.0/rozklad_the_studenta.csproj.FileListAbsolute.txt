@@ -1,0 +1,16 @@
+C:\Users\Kuba\Desktop\zad_dom\rozklad_the_studenta\bin\Debug\net5.0\rozklad_the_studenta.exe
+C:\Users\Kuba\Desktop\zad_dom\rozklad_the_studenta\bin\Debug\net5.0\rozklad_the_studenta.deps.json
+C:\Users\Kuba\Desktop\zad_dom\rozklad_the_studenta\bin\Debug\net5.0\rozklad_the_studenta.runtimeconfig.json
+C:\Users\Kuba\Desktop\zad_dom\rozklad_the_studenta\bin\Debug\net5.0\rozklad_the_studenta.runtimeconfig.dev.json
+C:\Users\Kuba\Desktop\zad_dom\rozklad_the_studenta\bin\Debug\net5.0\rozklad_the_studenta.dll
+C:\Users\Kuba\Desktop\zad_dom\rozklad_the_studenta\bin\Debug\net5.0\ref\rozklad_the_studenta.dll
+C:\Users\Kuba\Desktop\zad_dom\rozklad_the_studenta\bin\Debug\net5.0\rozklad_the_studenta.pdb
+C:\Users\Kuba\Desktop\zad_dom\rozklad_the_studenta\obj\Debug\net5.0\rozklad_the_studenta.csproj.AssemblyReference.cache
+C:\Users\Kuba\Desktop\zad_dom\rozklad_the_studenta\obj\Debug\net5.0\rozklad_the_studenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuba\Desktop\zad_dom\rozklad_the_studenta\obj\Debug\net5.0\rozklad_the_studenta.AssemblyInfoInputs.cache
+C:\Users\Kuba\Desktop\zad_dom\rozklad_the_studenta\obj\Debug\net5.0\rozklad_the_studenta.AssemblyInfo.cs
+C:\Users\Kuba\Desktop\zad_dom\rozklad_the_studenta\obj\Debug\net5.0\rozklad_the_studenta.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\zad_dom\rozklad_the_studenta\obj\Debug\net5.0\rozklad_the_studenta.dll
+C:\Users\Kuba\Desktop\zad_dom\rozklad_the_studenta\obj\Debug\net5.0\ref\rozklad_the_studenta.dll
+C:\Users\Kuba\Desktop\zad_dom\rozklad_the_studenta\obj\Debug\net5.0\rozklad_the_studenta.pdb
+C:\Users\Kuba\Desktop\zad_dom\rozklad_the_studenta\obj\Debug\net5.0\rozklad_the_studenta.genruntimeconfig.cache

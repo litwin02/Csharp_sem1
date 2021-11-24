@@ -1,0 +1,16 @@
+C:\Users\Student\Desktop\kodowanko\zaj18_11_21\bin\Debug\net5.0\zaj18_11_21.exe
+C:\Users\Student\Desktop\kodowanko\zaj18_11_21\bin\Debug\net5.0\zaj18_11_21.deps.json
+C:\Users\Student\Desktop\kodowanko\zaj18_11_21\bin\Debug\net5.0\zaj18_11_21.runtimeconfig.json
+C:\Users\Student\Desktop\kodowanko\zaj18_11_21\bin\Debug\net5.0\zaj18_11_21.runtimeconfig.dev.json
+C:\Users\Student\Desktop\kodowanko\zaj18_11_21\bin\Debug\net5.0\zaj18_11_21.dll
+C:\Users\Student\Desktop\kodowanko\zaj18_11_21\bin\Debug\net5.0\ref\zaj18_11_21.dll
+C:\Users\Student\Desktop\kodowanko\zaj18_11_21\bin\Debug\net5.0\zaj18_11_21.pdb
+C:\Users\Student\Desktop\kodowanko\zaj18_11_21\obj\Debug\net5.0\zaj18_11_21.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\kodowanko\zaj18_11_21\obj\Debug\net5.0\zaj18_11_21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\kodowanko\zaj18_11_21\obj\Debug\net5.0\zaj18_11_21.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\kodowanko\zaj18_11_21\obj\Debug\net5.0\zaj18_11_21.AssemblyInfo.cs
+C:\Users\Student\Desktop\kodowanko\zaj18_11_21\obj\Debug\net5.0\zaj18_11_21.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\kodowanko\zaj18_11_21\obj\Debug\net5.0\zaj18_11_21.dll
+C:\Users\Student\Desktop\kodowanko\zaj18_11_21\obj\Debug\net5.0\ref\zaj18_11_21.dll
+C:\Users\Student\Desktop\kodowanko\zaj18_11_21\obj\Debug\net5.0\zaj18_11_21.pdb
+C:\Users\Student\Desktop\kodowanko\zaj18_11_21\obj\Debug\net5.0\zaj18_11_21.genruntimeconfig.cache

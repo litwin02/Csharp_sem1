@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "rozklad_the_studenta/1.0.0": {
+        "runtime": {
+          "rozklad_the_studenta.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "rozklad_the_studenta/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
